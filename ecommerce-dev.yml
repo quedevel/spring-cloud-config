@@ -1,13 +1,13 @@
 token:
   expiration_time: 86400000
-  secret: my_token_dev#22222
+  secret: '{cipher}AQBJ2wdujP7D0DYzI1nrgvK0/p3AqHo+cxxatw6cimOVzjiy8o4UY4lYQK1kgHIDF7eULRXh1PyHPd3Iub05kc7ZlAJs/3LJtqMvnT0hXnYNyD9R3f8k5HDX+aqGKX2lB8pReq8ox410fAAAWWvWpysSB65+lr9SJj49cbfM7ggCCvySSQXa7NfB7WDNwdstotB4P0WptPNT/wkwnpf6vV91E7N0T0FNYIZF1N4fM5hjkTSk4dVANQ3BGBh5KrskPkkITx3xuNEjrPPg0ompsZArMzez6UNtSDExN2vcEFuIM2VUpofjN2OFb84LidYOy8qXm7d9yrC2t/Vl1iuG4YKDzXfIYCM+lhMiGkMiMTMFXpDtI2GX0f2LjVbmKLTKYTcasEaS0DYtpsz54OhF8HFU'
 
 spring:
   datasource:
     driver-class-name: org.h2.Driver
     url: jdbc:h2:mem:testdb
     username: sa
-    password: '{cipher}f24ab20130cc6cd3eff3d1d39af45685ca920bb95462024ed566a830b2dd0c13'
+    password: '{cipher}AQAeto1gUd4fs4cWsZmEMb1z8eLE046rdaDVwNw7NkhdteIGd3pf04smYonsK6rdpPWQqcaAZEuTyIa7bGUkJTgO5VuZgtCROmmGm9HBoWtJH0/AUtXaCr0r+oNDcI8qeGpW2UAhuxrmhlSpp3TI8S/cP6ZBS/pTh8/w7zf0fay5MPAdwUb+2O6mqnn1D6GFnVyqWc9MgCmDxuwhaVRECpkTvMI2+5il6fbgvosERziGXPXCixW3Sj7/8tlqmJmNz1B+RYaM42VEm+F6BLsrO05L5HvQesruC/RifJ68LqgVHdIIeNYz5ponrD/3JM/J5SkscWG0IPp6Mc1hSVUU7+JSc7bq+50eLLdpbZ0SMGQHJAuYj6/dhjgZq01s3r+Urek='
 
 gateway:
   ip: 192.168.125.82
