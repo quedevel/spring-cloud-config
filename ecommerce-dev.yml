@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000
-  secret: '{cipher}AQBJ2wdujP7D0DYzI1nrgvK0/p3AqHo+cxxatw6cimOVzjiy8o4UY4lYQK1kgHIDF7eULRXh1PyHPd3Iub05kc7ZlAJs/3LJtqMvnT0hXnYNyD9R3f8k5HDX+aqGKX2lB8pReq8ox410fAAAWWvWpysSB65+lr9SJj49cbfM7ggCCvySSQXa7NfB7WDNwdstotB4P0WptPNT/wkwnpf6vV91E7N0T0FNYIZF1N4fM5hjkTSk4dVANQ3BGBh5KrskPkkITx3xuNEjrPPg0ompsZArMzez6UNtSDExN2vcEFuIM2VUpofjN2OFb84LidYOy8qXm7d9yrC2t/Vl1iuG4YKDzXfIYCM+lhMiGkMiMTMFXpDtI2GX0f2LjVbmKLTKYTcasEaS0DYtpsz54OhF8HFU'
+  secret: 'user_token'
 
 spring:
   datasource:
